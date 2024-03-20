@@ -1,5 +1,9 @@
 public class Algora
 {
+    public static void Main(string[] args)
+    {
+        Run();
+    }
 
     static string danceEffect(string loxMove, string drakoMove, Dictionary<string, string> effects)
     {

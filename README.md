@@ -51,10 +51,11 @@ Your task is to simulate the dance between Lox and Faelis. Each creature has its
     | Spin       | Twirl      | Leap       | Leap       | Spin       |
 
 5. **Advanced Features (if time permits):**
-    - Implement a system that allows users to add new dance moves and effects.
+    - Implement a system that allows users to add new characters, dance moves and effects.
     - Users can select the dance move for each sequence.
     - Implement speech-to-text for selecting dance moves using Azure Speech Services.
-    - Visualize the forest using Azure AI DALLE-3. 
+    - Visualize the forest using Azure AI DALLE-3.
+    - Animate visualizations if the above is not challenging enough.
 
 ### Constraints
 
