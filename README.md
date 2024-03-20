@@ -12,11 +12,11 @@ To get started, enter by clicking the button below. This will create a GitHub Co
 
 ### Background
 
-Deep within the enchanted Forest of Algora, two mystical creatures, the Lox and the Faelis, perform a sacred dance every millennium. This dance is not just for celebration but is a ritual to bring balance to the forest.
+Deep within the enchanted Forest of Algora, two mystical creatures, the Lox and the Drako, perform a sacred dance every millennium. This dance is not just for celebration but is a ritual to bring balance to the forest.
 
 ### Objective
 
-Your task is to simulate the dance between Lox and Faelis. Each creature has its own set of dance moves, and the combination of moves creates various magical effects in the forest. Your goal is to determine the state of the forest after the dance is complete.
+Your task is to simulate the dance between Lox and Drako. Each creature has its own set of dance moves, and the combination of moves creates various magical effects in the forest. Your goal is to determine the state of the forest after the dance is complete.
 
 ### Specifications
 
@@ -44,7 +44,7 @@ Your task is to simulate the dance between Lox and Faelis. Each creature has its
     |------------|------------|------------|------------|------------|
     | Twirl      | Leap       | Spin       | Twirl      | Leap       |
 
-    **Moves for Faelis (Creature 2)**
+    **Moves for Drako (Creature 2)**
 
     | Sequence 1 | Sequence 2 | Sequence 3 | Sequence 4 | Sequence 5 |
     |------------|------------|------------|------------|------------|
