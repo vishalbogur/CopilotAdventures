@@ -1,8 +1,26 @@
+## 1. Agenda
+
+Prerequisites:
+
+- Active Github account
+- Copilot license that has been shared with you is already linked to your account
+- Wifi is connected, internet is working
+
+If you do not have any of the above, pair up with someone that does have everything working.
+
+1. Gather, grab coffee, pair up & setup (10 mins)
+2. Quick primer on Copilot (5 mins)
+3. Explain assignment (5 mins)
+4. Code! (45 mins)
+5. Demos & group discussion (15 mins)
+
 ## 1. Setup
 
 To get started, enter by clicking the button below. This will create a GitHub Codespace that you can work in. Once it loads select the **Create codespace** button.
 
 [![Enter Adventure Arena](https://img.shields.io/static/v1?style=for-the-badge&label=Enter+Adventure+Arena&message=Open&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=774936573&skip_quickstart=true)
+
+!["QR"](Images/qr-codespace.png)
 
 ## 2. The Magical Forest of Algora
 
@@ -124,7 +142,6 @@ See if you can use Copilot to find out the complexity (BigO notation) of the cod
 
 Copilot Chat can help with that too! Just copy the error message and paste it into Chat. Often that's all Copilot needs to resolve your issue.
 
-
 ## 3. Start Coding
 
 Read Your Copilot Adventure description, the high-Level tasks to perform, and the GitHub Copilot hints to help you write your code.
@@ -141,3 +158,15 @@ If you'd like to share your solution with others, perform the following steps:
 - Add a link to your GitHub repo in the body section.
 - If you have any feedback, share what you found (good or bad). We'd love to hear your feedback!
 
+## 5. Intel
+
+- Try and only use your Codespace and Copilot
+- Questions or stuck? Ask us!
+- Example solutions can be found in `/Solutions` folder
+- Copilot shortcuts
+  - `CTRL` - `SHIFT` - `I`: Workspace prompt
+  - `CTRL` - `I`: Inline prompt, also works on code selection.
+- Copilot commands
+  - /doc /explain /fix /generate /help /optimize /simplify /tests
+- Azure Speech: key/region
+- Azure AI DALLE-3: endpoint/key
