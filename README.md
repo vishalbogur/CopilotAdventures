@@ -45,8 +45,6 @@ If you do not have any of the above, pair up with someone that does have everyth
 
 To get started, enter by clicking the button below. This will create a GitHub Codespace that you can work in. Once it loads select the Create codespace button. 
 
-[![Codespace](https://img.shields.io/badge/GitHub%20Codespace-Create%20Now-blue?style=for-the-badge&logo=visual-studio-code)](https://github.com/{{ env.REPOSITORY_OWNER }}/{{ env.REPOSITORY_NAME }}/codespaces/new?name=MyCodespace&repo={{ env.REPOSITORY_OWNER }}/{{ env.REPOSITORY_NAME }}&ref={{ env.BASE_REF }})
-
 [![Enter Adventure Arena](https://img.shields.io/static/v1?style=for-the-badge&label=Enter+Adventure+Arena&message=Open&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=774936573&skip_quickstart=true)
 
 !["QR"](Images/qr-codespace.png)
