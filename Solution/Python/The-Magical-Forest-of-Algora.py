@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-client = OpenAI(api_key="c6793551a72640a6957c02df798df68e", base_url="https://sbp-gctfs-offsite24-oai.openai.azure.com/v1")
+client = OpenAI(api_key="", base_url="")
 
 print(client.models.list())
 
